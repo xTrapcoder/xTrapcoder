@@ -13,8 +13,7 @@ Hi, I'm Yajat Singh 👋 — a B.Tech AI/ML student in Delhi who builds end-to-e
 
 - 🧪 Currently building framework-free AI agents and computer-vision tools, alongside DSA prep
 - 🛠️ Comfortable across ML (PyTorch, OpenCV, Ultralytics) and backend automation (Python, asyncio)
-- 🏆 Smart India Hackathon 2025 — top-24 finalist
-- 📩 Reachable via email below
+- 📩 Reachable at yajatsingh202021@gmail.com
 
 ---
 
