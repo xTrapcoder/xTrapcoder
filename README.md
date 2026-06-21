@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6A3D&center=true&vCenter=true&width=600&lines=Web+Research+Agent+%C2%B7+Object+Detection" alt="Typing SVG" />
 
-Hi, I'm Aryan 👋 — a B.Tech AI/ML student in Delhi who builds end-to-end:
+Hi, I'm Yajat Singh 👋 — a B.Tech AI/ML student in Delhi who builds end-to-end:
 *from async research pipelines that synthesize cited reports to real-time CV demos deployed on Hugging Face Spaces.*
 
 </div>
